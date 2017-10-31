@@ -95,7 +95,7 @@ kramdown:
     #css_class: 'highlight'
     #css_class: 'codehilite'
    # try to disable the highlighter
-    disable: true
+    #disable: true
     #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
     span:
       line_numbers: false
