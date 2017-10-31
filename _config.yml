@@ -43,8 +43,8 @@ author:
 ## Advanced blog settings
 ## You should not change anything here unless you know what you are doing
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
